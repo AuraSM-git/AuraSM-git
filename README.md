@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:6E9CC7&height=180&section=header&text=&fontColor=ffffff" /> <h1 align="center">Hi, I'm Aura SM</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:6E9CC7&height=200&section=header&text=Hi,+I'm+Aura+&fontSize=40&fontColor=ffffff" />
 
 <h3 align="center">From the classroom to the codebase</h3>
 
