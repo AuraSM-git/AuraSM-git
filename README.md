@@ -8,13 +8,13 @@
 
 <h3><span style="color:#C77E9C">About Me</span></h3>
 
-I started my career as an **English teacher** in 2017, working with CEFR frameworks and Cambridge exam standards — years spent breaking down complex ideas so they made sense to people. Now I'm channeling that same skill into **programming**, currently doing an internship where I build scrapers, automation tools, and AI-powered systems.
+I started my career as an **English teacher** in 2017, working at Kids&Us, teachink kids and teenagers their methodology based on CEFR frameworks and Cambridge exam standards and also as a teacher for companies for their employees that wanted to improve their English skills that they needed at their job. Those years were spent breaking down complex ideas so they made sense to people. Now I'm channeling that same skill into **programming**, currently doing an internship where I build scrapers, automation tools, and AI-powered systems.
 
-That teaching background didn't disappear — it just changed subjects. Explaining code clearly, breaking problems into steps, staying patient with the process — same muscles, new material.
+That teaching background didn't disappear, it just changed subjects. Explaining code clearly to my colleagues, breaking problems into steps, staying patient with the process, same muscles, new material.
 
 - Currently working on **RAG pipelines** and a **web scraping system** for public tender data
 - Learning to combine **AI/LLMs** with practical automation
-- Ask me about language teaching, CEFR/Cambridge assessment, or Python scraping
+- Ask me about language teaching, CEFR/Cambridge assessment, or Python/Web developing
 - How to reach me: **aurasm90@gmail.com**
 - Fun fact: I went from grading essays to grading my own commits
 
@@ -27,31 +27,33 @@ That teaching background didn't disappear — it just changed subjects. Explaini
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=6E9CC7" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6E9CC7" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=6E9CC7" />
+  
 </p>
 
 **Python Libraries & Frameworks**
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=6E9CC7" />
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=6E9CC7" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=6E9CC7" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=6E9CC7" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=6E9CC7" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=6E9CC7" />
+  
 </p>
 
 **Tools & Platforms**
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=6E9CC7" />
+<p> 
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=6E9CC7" />
+   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=6E9CC7" />
 </p>
 
 **Focus Areas**
@@ -60,13 +62,14 @@ That teaching background didn't disappear — it just changed subjects. Explaini
   <img src="https://img.shields.io/badge/Web%20Scraping-1a1a1a?style=for-the-badge&color=6E9CC7&logoColor=000" />
   <img src="https://img.shields.io/badge/RAG%20%2F%20LLMs-1a1a1a?style=for-the-badge&color=6E9CC7&logoColor=000" />
   <img src="https://img.shields.io/badge/Automation-1a1a1a?style=for-the-badge&color=6E9CC7&logoColor=000" />
+  <img src="https://img.shields.io/badge/Web%20Apps-1a1a1a?style=for-the-badge&color=6E9CC7&logoColor=000" />
 </p>
 
 ---
 
 <h3><span style="color:#C77E9C">My best projects</span></h3>
 
-<table> <tr> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> <a href="[LINK_A_LA_WEB]"><img src="https://img.shields.io/badge/Ver%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=6E9CC7" /></a> </p> </td> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> <a href="[LINK_A_LA_WEB]"><img src="https://img.shields.io/badge/Ver%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=6E9CC7" /></a> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> </p> </td> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> </p> </td> </tr> </table>
+<table> <tr> <td width="50%" valign="top"> <h3>📌 [Web page for a restaurant]</h3> <p>[Kimchi House- a web page for a 'imaginary' restarurant that allows to make reservations based on the availability, see menu, create account for points and rewards - Built with HTML, CSS, JS, PHP & SQL as end-of-course project]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> <a href="https://kimchihouse.infinityfree.me/?i=1"><img src="https://img.shields.io/badge/Ver%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=6E9CC7" /></a> </p> </td> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> <a href="[LINK_A_LA_WEB]"><img src="https://img.shields.io/badge/Ver%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=6E9CC7" /></a> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> </p> </td> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> </p> </td> </tr> </table>
 
 ---
 
