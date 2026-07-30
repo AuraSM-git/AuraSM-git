@@ -2,7 +2,9 @@
 
 <h3 align="center">From the classroom to the codebase</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E9CC7&center=true&vCenter=true&width=600&lines=English+Teacher+Aspiring +Developer;Now+Building+with+Python;RAG+%7C+Web+Scraping+%7C+Automation" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E9CC7&center=true&vCenter=true&width=600&lines=English+Teacher+%26+Aspiring+Developer;Now+Building+with+Python;RAG+%7C+Web+Scraping+%7C+Automation" alt="Typing SVG" />
+</p>
 
 ---
 
