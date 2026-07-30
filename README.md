@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [YOUR NAME] 👋</h1>
+<h1 align="center">Hi, I'm Aura SM 👋</h1>
 
 <h3 align="center">From the classroom to the codebase 🎓➡️💻</h3>
 
@@ -10,7 +10,7 @@
 
 ### 🧭 About Me
 
-I started my career as an **English teacher**, working with CEFR frameworks and Cambridge exam standards — years spent breaking down complex ideas so they made sense to people. Now I'm channeling that same skill into **programming**, currently doing an internship where I build scrapers, automation tools, and AI-powered systems.
+I started my career as an **English teacher** in 2017, working with CEFR frameworks and Cambridge exam standards — years spent breaking down complex ideas so they made sense to people. Now I'm channeling that same skill into **programming**, currently doing an internship where I build scrapers, automation tools, and AI-powered systems.
 
 That teaching background didn't disappear — it just changed subjects. Explaining code clearly, breaking problems into steps, staying patient with the process — same muscles, new material.
 
