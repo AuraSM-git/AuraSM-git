@@ -2,7 +2,7 @@
 
 <h3 align="center">From the classroom to the codebase</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E9CC7&center=true&vCenter=true&width=600&lines=Former+English+Teacher;Now+Building+with+Python;RAG+%7C+Web+Scraping+%7C+Automation" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E9CC7&center=true&vCenter=true&width=600&lines=English+Teacher+Aspiring +Developer;Now+Building+with+Python;RAG+%7C+Web+Scraping+%7C+Automation" alt="Typing SVG" /> </p>
 
 ---
 
@@ -29,9 +29,9 @@ Teaching didn't disappear; it just changed subjects: explaining clearly, breakin
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6E9CC7" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=6E9CC7" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=6E9CC7" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=6E9CC7" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=6E9CC7" />  
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6E9CC7" />  
 
 </p>
 
