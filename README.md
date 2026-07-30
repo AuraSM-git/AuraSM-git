@@ -1,28 +1,28 @@
-<h1 align="center">Hi, I'm Aura SM 👋</h1>
+<h1 align="center">Hi, I'm Aura SM</h1>
 
-<h3 align="center">From the classroom to the codebase 🎓➡️💻</h3>
+<h3 align="center">From the classroom to the codebase</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E9CC7&center=true&vCenter=true&width=600&lines=Former+English+Teacher+%F0%9F%93%9A;Now+Building+with+Python+%F0%9F%90%8D;RAG+%7C+Web+Scraping+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E9CC7&center=true&vCenter=true&width=600&lines=English+Teacher+%F0%9F%93%9A;Now+Building+with+Python+%F0%9F%90%8D;RAG+%7C+Web+Scraping+%7C+Automation" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧭 About Me
+<h3><span style="color:#C77E9C">About Me</span></h3>
 
 I started my career as an **English teacher** in 2017, working with CEFR frameworks and Cambridge exam standards — years spent breaking down complex ideas so they made sense to people. Now I'm channeling that same skill into **programming**, currently doing an internship where I build scrapers, automation tools, and AI-powered systems.
 
 That teaching background didn't disappear — it just changed subjects. Explaining code clearly, breaking problems into steps, staying patient with the process — same muscles, new material.
 
-- 🔭 Currently working on **RAG pipelines** and a **web scraping system** for public tender data
-- 🌱 Learning to combine **AI/LLMs** with practical automation
-- 💬 Ask me about language teaching, CEFR/Cambridge assessment, or Python scraping
-- 📫 How to reach me: **[YOUR EMAIL]**
-- ⚡ Fun fact: I went from grading essays to grading my own commits
+- Currently working on **RAG pipelines** and a **web scraping system** for public tender data
+- Learning to combine **AI/LLMs** with practical automation
+- Ask me about language teaching, CEFR/Cambridge assessment, or Python scraping
+- How to reach me: **aurasm90@gmail.com**
+- Fun fact: I went from grading essays to grading my own commits
 
 ---
 
-### 🛠️ Tech Stack
+<h3><span style="color:#C77E9C">Tech Stack</span></h3>
 
 **Languages**
 
@@ -66,27 +66,20 @@ That teaching background didn't disappear — it just changed subjects. Explaini
 
 ---
 
-### 📊 GitHub Stats
+<h3><span style="color:#C77E9C">My best projects</span></h3>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6E9CC7&icon_color=6E9CC7&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6E9CC7&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=6E9CC7&fire=6E9CC7&currStreakLabel=6E9CC7" />
-</p>
+<table> <tr> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> <a href="[LINK_A_LA_WEB]"><img src="https://img.shields.io/badge/Ver%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=6E9CC7" /></a> </p> </td> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> <a href="[LINK_A_LA_WEB]"><img src="https://img.shields.io/badge/Ver%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=6E9CC7" /></a> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> </p> </td> <td width="50%" valign="top"> <h3>📌 [Nombre del proyecto]</h3> <p>[Breve descripción: qué hace, qué problema resuelve, tecnologías clave.]</p> <p> <a href="[LINK_AL_REPO]"><img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=6E9CC7" /></a> </p> </td> </tr> </table>
 
 ---
 
-### 🌐 Connect with Me
+<h3><span style="color:#C77E9C">Connect with Me</span>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6E9CC7" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=6E9CC7" /></a>
+  <a href="https://www.linkedin.com/in/aura-simina-mironas-1508aa412"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6E9CC7" /></a>
+  <a href="mailto:aurasm90@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=6E9CC7" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6E9CC7&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=AuraSM-gitE&color=6E9CC7&style=flat-square&label=Profile+Views" />
 </p>
 
