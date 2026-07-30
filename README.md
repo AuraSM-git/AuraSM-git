@@ -79,7 +79,7 @@ Teaching didn't disappear; it just changed subjects: explaining clearly, breakin
 <h3><span style="color:#C77E9C">Connect with Me</span>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aura-simina-mironas-1508aa412"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6E9CC7" /></a>
+  <a href="https://www.linkedin.com/in/aura-simina-mironas-60131b84"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6E9CC7" /></a>
   <a href="mailto:aurasm90@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=6E9CC7" /></a>
 </p>
 
